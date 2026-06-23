@@ -1,0 +1,5 @@
+# the closed lib ships as a Release asset, not in the tree
+prebuilt/cufes_ffi.lib
+cufes.exe
+*.exp
+*.obj
