@@ -3,3 +3,5 @@ prebuilt/cufes_ffi.lib
 cufes.exe
 *.exp
 *.obj
+
+.relid
